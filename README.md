@@ -1,6 +1,5 @@
 # GameTE
 If you want to execute this program, run the following commands in a terminal window (linux terminal).<br>
-The green markers show the location of the header.1h file.<br>
-The first three compile the necessary files, and the last command runs the program.
+The green marker show the location of the header.1h file.<br>
 
-![image](https://github.com/LukaszKaszewski/GameTE/assets/120756460/037f17af-5dcb-4681-9973-0c1c6656e12e)
+![image](https://github.com/LukaszKaszewski/GameTE/assets/120756460/c7694e92-c867-44b0-b41f-8e055c933139)
